@@ -1,0 +1,8 @@
+Number of vertices: 4
+Number of edges: 4
+Adjacency Matrix:
+  0 1 2 3
+0 X 1 X X
+1 X X X X
+2 X 2 X X
+3 5 X 3 X

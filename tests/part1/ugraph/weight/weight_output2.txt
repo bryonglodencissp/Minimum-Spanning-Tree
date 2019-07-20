@@ -1,0 +1,8 @@
+Number of vertices: 6
+Number of edges: 4
+Weight of (0, 1): 1
+Weight of (1, 2): 2
+Weight of (2, 0): 3
+Weight of (4, 4): 2
+Edge does not exist
+Edge does not exist

@@ -1,0 +1,3 @@
+Number of vertices: 4
+Number of edges: 5
+Graph is not simple

@@ -1,0 +1,12 @@
+Number of vertices: 7
+Number of edges: 7
+Shortest path from 0 to 5:
+0 4 3 5
+Weight of path: 10
+Shortest path from 0 to 3:
+0 4 3
+Weight of path: 9
+Shortest path from 1 to 5:
+1 4 3 5
+Weight of path: 8
+Path does not exist

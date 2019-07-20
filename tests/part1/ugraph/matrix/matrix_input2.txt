@@ -1,0 +1,16 @@
+ugraph 8
+add 0 6 2
+add 0 2 5
+add 0 1 87
+add 2 4 17
+add 2 3 12
+add 3 1 9
+add 3 5 10
+add 4 6 13
+add 4 5 15
+add 1 7 112
+add 5 7 36
+add 6 7 12
+v
+e
+matrix

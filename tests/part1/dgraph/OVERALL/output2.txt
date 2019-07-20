@@ -1,0 +1,21 @@
+Number of vertices: 6
+Number of edges: 9
+Shortest path from 0 to 5:
+0 1 4 5
+Path weight: 7
+Shortest path from 1 to 4:
+1 4
+Path weight: 2
+Shortest path from 3 to 0:
+3 4 2 0
+Path weight: 9
+Graph is strongly connected
+Adjacency Matrix:
+  0 1 2 3 4 5
+0 X 3 X X X X
+1 X X 5 X 2 X
+2 4 X X 1 X X
+3 X X X X 1 X
+4 X X 4 X X 2
+5 X X X 7 X X
+No topological ordering exists

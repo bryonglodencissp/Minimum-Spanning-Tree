@@ -1,0 +1,38 @@
+Number of vertices: 10
+Number of edges: 20
+Adjacent to vertex 0: 1 3 4 5 6
+Adjacent to vertex 1: 2 3
+Adjacent to vertex 2: 1 3
+Adjacent to vertex 3: 4
+Adjacent to vertex 4: 5
+Adjacent to vertex 5: none
+Adjacent to vertex 6: 5
+Adjacent to vertex 7: 0 1 6
+Adjacent to vertex 8: 1 7 9
+Adjacent to vertex 9: 1 2
+Weight of (0, 4): 20
+Edge does not exist
+Weight of (2, 1): 15
+Weight of (1, 2): 5
+Weight of (8, 7): 20
+Adjacency Matrix:
+  0 1  2  3  4  5  6  7  8 9
+0 X 10 X  20 20 4  15 X  X X
+1 X X  5  10 X  X  X  X  X X
+2 X 15 X  5  X  X  X  X  X X
+3 X X  X  X  10 X  X  X  X X
+4 X X  X  X  X  5  X  X  X X
+5 X X  X  X  X  X  X  X  X X
+6 X X  X  X  X  10 X  X  X X
+7 5 20 X  X  X  X  8  X  X X
+8 X 15 X  X  X  X  X  20 X 10
+9 X 5  15 X  X  X  X  X  X X
+Path does not exist
+Path does not exist
+Path does not exist
+Shortest path from 0 to 2:
+0 1 2
+Weight of path: 15
+No topological ordering exists
+Graph is not strongly connected
+Graph is simple

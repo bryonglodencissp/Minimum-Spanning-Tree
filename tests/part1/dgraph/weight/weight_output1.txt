@@ -1,0 +1,10 @@
+Number of vertices: 6
+Number of edges: 7
+Weight of (0, 1): 0.618
+Weight of (0, 2): 1.414
+Weight of (1, 2): 1.732
+Edge does not exist
+Weight of (1, 3): 3.141
+Weight of (1, 4): 2.718
+Edge does not exist
+Weight of (4, 5): 5

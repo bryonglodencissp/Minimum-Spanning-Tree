@@ -1,0 +1,29 @@
+Number of vertices: 6
+Number of edges: 9
+Adjacent to 0: 1 5
+Adjacent to 1: 0 2 5
+Adjacent to 2: 1 3 5
+Adjacent to 3: 2 4 5
+Adjacent to 4: 3 5
+Adjacent to 5: 0 1 2 3 4
+Weight of (0, 5): 4
+Weight of (3, 2): 4
+Edge does not exist
+Shortest path from 0 to 2:
+0 5 2
+Weight of path: 5
+Shortest path from 0 to 3:
+0 5 2 3
+Weight of path: 9
+Adjacency Matrix:
+  0 1 2 3 4 5
+0 X 5 X X X 4
+1 5 X 2 X X 1
+2 X 2 X 4 X 1
+3 X X 4 X 8 7
+4 X X X 8 X 7
+5 4 1 1 7 7 X
+Minimum Spanning Tree:
+(0, 5) (1, 5) (2, 3) (2, 5) (4, 5)
+Graph is simple
+

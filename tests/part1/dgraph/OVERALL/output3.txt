@@ -1,0 +1,16 @@
+Number of vertices: 6
+Number of edges: 10
+Graph is not simple
+Transitive Closure:
+  0 1 2 3 4 5
+0 1 1 1 1 1 1
+1 0 1 1 1 1 1
+2 0 0 1 1 1 1
+3 0 0 0 1 0 0
+4 0 0 0 0 1 0
+5 0 0 0 0 1 1
+Graph is not strongly connected
+Topological orderings:
+0 1 2 3 5 4
+0 1 2 5 3 4
+0 1 2 5 4 3

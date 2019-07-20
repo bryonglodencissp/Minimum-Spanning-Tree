@@ -1,0 +1,8 @@
+ugraph 5
+v
+e
+adj 0
+adj 1
+adj 2
+adj 3
+adj 4

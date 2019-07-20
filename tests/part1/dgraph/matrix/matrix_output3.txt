@@ -1,0 +1,9 @@
+Number of vertices: 5
+Number of edges: 10
+Adjacency Matrix:
+  0     1     2     3     4
+0 X     0.618 X     1.732 X
+1 X     X     0.587 7.440 0.980
+2 X     1.414 X     X     0.567
+3 X     X     2.666 X     0.889
+4 6.626 X     X     X     X

@@ -1,0 +1,3 @@
+Number of vertices: 3
+Number of edges: 3
+Graph is strongly connected

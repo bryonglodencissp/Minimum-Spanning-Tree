@@ -1,0 +1,13 @@
+dgraph 6
+add 0 1 1
+add 1 2 2
+add 2 0 3.74798
+add 4 4 2
+v
+e
+weight 0 1
+weight 1 2
+weight 2 0
+weight 4 4
+weight 5 5
+weight 4 5

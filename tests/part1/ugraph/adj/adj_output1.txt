@@ -1,0 +1,7 @@
+Number of vertices: 5
+Number of edges: 5
+Adjacent to vertex 0: 0
+Adjacent to vertex 1: 1
+Adjacent to vertex 2: 2
+Adjacent to vertex 3: 3
+Adjacent to vertex 4: 4

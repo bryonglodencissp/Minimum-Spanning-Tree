@@ -1,0 +1,11 @@
+Number of vertices: 11
+Number of edges: 21
+Shortest path from 0 to 10:
+0 1 4 8 10
+Weight of path: 9
+Shortest path from 3 to 9:
+3 4 9
+Weight of path: 4
+Shortest path from 0 to 9:
+0 1 4 9
+Weight of path: 6

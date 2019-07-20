@@ -1,0 +1,16 @@
+Number of vertices: 6
+Number of edges: 8
+Adjacent to vertex 0: none
+Adjacent to vertex 1: none
+Adjacent to vertex 2: 0 1 3
+Adjacent to vertex 3: 0
+Adjacent to vertex 4: 2 5
+Adjacent to vertex 5: 1 2
+Weight of (4, 2): 2
+Edge does not exist
+Topological orderings:
+4 5 2 1 3 0
+4 5 2 3 0 1
+4 5 2 3 1 0
+Graph is not strongly connected
+Graph is simple
